@@ -1,2 +1,8 @@
-# Movie_app
-The Movie Recommendation and Search project is designed to provide users with a seamless experience in discovering and exploring movies and web series. Leveraging React and Tailwind CSS, this application fetches data from the TMDB database using Axios for API requests.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
